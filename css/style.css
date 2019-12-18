@@ -1,0 +1,49 @@
+body {
+    background: black;
+}
+
+.header-box {
+    padding: 20px;
+}
+
+.logo {
+    color: white;
+    border: 1px solid white;
+}   
+
+.contacts {
+    color: white;
+    border: 1px solid white;
+}
+
+.box {
+    padding: 30px;
+}
+
+.content {
+    width: 280px;
+    height: 300px;
+    border: 1px solid white;
+}
+
+.modal {
+    background: rgba(0,0,0, 0.5);
+}
+
+.sendBtn {
+    display: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+input[type="radio"] {
+    /* display: none; */
+}
+
+.main {
+    background: url('../backround-main.jpg') center no-repeat;
+    background-color: rgba(0,0,0, 0.5);
+    height: 80vh;
+}
